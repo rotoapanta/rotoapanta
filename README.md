@@ -11,6 +11,8 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)-->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robertocarlos.toapanta@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Roberto_Toapanta_G)](https://www.researchgate.net/profile/Roberto_Toapanta_G)
+
 
 Nice to meet you! My name is Roberto. I'm currently working as a IOT architect in [ToGuBrainSolutions](https://togubrain.tk/). I previously worked on building an open source telecommunications system monitoring system as a full-stack developer. Nowadays, I am working on ToGuBRAIN Solutions Platform as a developer of applications for agriculture, transportation, intelligent parking, disaster monitoring.
 
