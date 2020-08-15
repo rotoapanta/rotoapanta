@@ -3,12 +3,12 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@rotoapanta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rotoapanta)](https://twitter.com/rotoapanta)
 [![Linkedin Badge](https://img.shields.io/badge/-RobertoCarlosToapanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-carlos-toapanta-g/)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
-[![ResearchGate Badge](https://img.shields.io/badge/-RobertoCarlosToapantaG-green?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Roberto_Toapanta_G)](https://www.researchgate.net/profile/Roberto_Toapanta_G)
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rotoapanta)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)-->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robertocarlos.toapanta@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
 
