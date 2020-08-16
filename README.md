@@ -17,7 +17,7 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ### Technical Skills
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
