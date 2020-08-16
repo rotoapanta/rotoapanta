@@ -18,6 +18,7 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -25,6 +26,8 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R)
 
 ##### Some of the technologies I have worked with
 
@@ -38,7 +41,7 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![zabbix](https://img.shields.io/badge/-zabbix-D0021B?style=flat&logo=zabbix&logoColor=1575F9)
+![zabbix](https://img.shields.io/badge/-Zabbix-D0021B?style=flat&logo=zabbix&logoColor=1575F9)
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
