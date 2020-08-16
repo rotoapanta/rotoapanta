@@ -22,7 +22,9 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
 ##### Some of the technologies I have worked with
 
