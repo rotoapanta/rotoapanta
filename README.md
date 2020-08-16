@@ -5,22 +5,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Roberto_Toapanta_G)
 [![Orcid](https://img.shields.io/badge/-Orcid-A9D63E?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2544-4981)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rotoapanta)
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)](https://github.com/rotoapanta)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)-->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robertocarlos.toapanta@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
 
-
 Nice to meet you! My name is Roberto. I'm currently working as a IOT architect in [ToGuBrainSolutions](https://togubrain.tk/). I previously worked on building an open source telecommunications system monitoring system as a full-stack developer. Nowadays, I am working on ToGuBRAIN Solutions Platform as a developer of applications for agriculture, transportation, intelligent parking, disaster monitoring.
-
-## Technologies :fire:
-- Data Science.
-- Java
-- PHP.
-- Python.
-- Data Analysis with **Python**.
-- Machine Learning
-- Deep Learning
 
 ##### Languages I use
 
