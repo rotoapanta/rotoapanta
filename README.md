@@ -14,20 +14,19 @@
 
 Nice to meet you! My name is Roberto. I'm currently working as a IOT architect in [ToGuBrainSolutions](https://togubrain.tk/). I previously worked on building an open source telecommunications system monitoring system as a full-stack developer. Nowadays, I am working on ToGuBRAIN Solutions Platform as a developer of applications for agriculture, transportation, intelligent parking, disaster monitoring.
 
-##### knowledge and skills
+### Technical Skills
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/rotoapanta/)](https://gitlab.com/rotoapanta/)
@@ -44,5 +43,5 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat&logo=google-cloud)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=Arduino)
