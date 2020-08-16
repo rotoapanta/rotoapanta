@@ -44,3 +44,6 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![zabbix](https://img.shields.io/badge/-zabbix-D0021B?style=flat&logo=zabbix&logoColor=1575F9)
+
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
