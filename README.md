@@ -2,9 +2,9 @@
 # Hey, I'm Roberto 👋, a Developer 🚀 from Ecuador.
 
 [![Twitter Badge](https://img.shields.io/badge/-@rotoapanta-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rotoapanta)](https://twitter.com/rotoapanta)
-[![Linkedin Badge](https://img.shields.io/badge/-RobertoCarlosToapanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-carlos-toapanta-g/)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
 
 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rotoapanta)](https://twitter.com/rotoapanta)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rotoapanta)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
