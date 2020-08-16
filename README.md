@@ -20,7 +20,7 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![PHP](https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4)
