@@ -14,7 +14,7 @@
 
 Nice to meet you! My name is Roberto. I'm currently working as a IOT architect in [ToGuBrainSolutions](https://togubrain.tk/). I previously worked on building an open source telecommunications system monitoring system as a full-stack developer. Nowadays, I am working on ToGuBRAIN Solutions Platform as a developer of applications for agriculture, transportation, intelligent parking, disaster monitoring.
 
-##### Languages I use
+##### knowledge and skills
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
