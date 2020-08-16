@@ -11,8 +11,7 @@
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=593999098696&text=Hola!)](https://api.whatsapp.com/send?phone=593999098696&text=Hola!)
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/luiz740)
 
 Nice to meet you! My name is Roberto. I'm currently working as a IOT architect in [ToGuBrainSolutions](https://togubrain.tk/). I previously worked on building an open source telecommunications system monitoring system as a full-stack developer. Nowadays, I am working on ToGuBRAIN Solutions Platform as a developer of applications for agriculture, transportation, intelligent parking, disaster monitoring.
 
