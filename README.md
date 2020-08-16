@@ -2,10 +2,10 @@
 # <a href="https://www.linkedin.com/in/ashwanisng/">Hey, I'm Roberto 👋, a Developer from Ecuador</a>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rotoapanta)](https://twitter.com/rotoapanta)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
-[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Roberto_Toapanta_G)
-[![Orcid Badge](https://img.shields.io/badge/-Orcid-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2544-4981)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)](https://github.com/rotoapanta)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roberto-carlos-toapanta-g/)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Roberto_Toapanta_G)](https://www.researchgate.net/profile/Roberto_Toapanta_G)
+[![Orcid Badge](https://img.shields.io/badge/-Orcid-A6CE39?style=flat&logo=orcid&logoColor=white&link=https://orcid.org/0000-0002-2544-4981)](https://orcid.org/0000-0002-2544-4981)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717&link=https://github.com/rotoapanta)](https://github.com/rotoapanta)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robertocarlos.toapanta@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
