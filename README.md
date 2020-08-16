@@ -1,6 +1,5 @@
 <!-- Your title -->
- # <a href="https://www.linkedin.com/in/ashwanisng/">Hey, I'm Roberto 👋, a Developer from Ecuador</a> :smiley:
-# Hey, I'm Roberto 👋, a Developer from Ecuador.
+# <a href="https://www.linkedin.com/in/ashwanisng/">Hey, I'm Roberto 👋, a Developer from Ecuador</a>
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rotoapanta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
