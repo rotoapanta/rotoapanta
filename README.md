@@ -50,5 +50,5 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 [![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock) 
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/) 
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) -->
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-[![zabbix](https://img.shields.io/badge/-zabbix-D0021B?style=flat&logo=zabbix&logoColor=1575F9)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)]
+![zabbix](https://img.shields.io/badge/-zabbix-D0021B?style=flat&logo=zabbix&logoColor=1575F9)
