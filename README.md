@@ -1,5 +1,6 @@
 <!-- Your title -->
-# Hey, I'm Roberto 👋, a Developer 🚀 from Ecuador.
+ # <a href="https://www.linkedin.com/in/ashwanisng/">Hey, I'm Roberto 👋, a Developer from Ecuador</a> :smiley:
+# Hey, I'm Roberto 👋, a Developer from Ecuador.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rotoapanta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-carlos-toapanta-g/)
@@ -28,8 +29,6 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R)
-
-##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/rotoapanta/)](https://gitlab.com/rotoapanta/)
