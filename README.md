@@ -23,12 +23,12 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
 ##### Some of the technologies I have worked with
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/rotoapanta/)](https://gitlab.com/rotoapanta/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/rotoapanta/)](https://github.com/rotoapanta/)
 
