@@ -26,7 +26,7 @@ Nice to meet you! My name is Roberto. I'm currently working as a IOT architect i
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flate&logo=git)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://gitlab.com/rotoapanta/)](https://gitlab.com/rotoapanta/)
