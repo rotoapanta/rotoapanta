@@ -9,7 +9,6 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:robertocarlos.toapanta@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:robertinho_6_krlos@hotmail.com)
-
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=593999098696&text=Hola!)](https://api.whatsapp.com/send?phone=593999098696&text=Hola!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&logo=telegram&logoColor=white&link=https://t.me/rotoapanta)](https://t.me/rotoapanta)
 
